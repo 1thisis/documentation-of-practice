@@ -1,9 +1,9 @@
-# Emoji Research
+# Hacker Research
 
-![Research](research.jpeg)
+![Research](Screen Shot 2020-04-17 at 6.45.16 PM.png)
 
 - Date: March 3, 2020
-- Description: Going through materials at the International Emoji Archives
+- Description: Watching documentray Unauthorized access on youtube. 
 
 ![Research](research-desktop.png)
 
