@@ -1,6 +1,6 @@
 # Hacker Ethic Discussion under the Sun, work in progress
 
-![In_Progress]()
+![In_Progress](IMG_0770.JPG)
 
 - Date: April 22, 2020
 - Medium: Digital Image file 
