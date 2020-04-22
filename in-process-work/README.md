@@ -1,9 +1,15 @@
-# Emoji Portraits, work in progress
+# Hacker Ethic Discussion under the Sun, work in progress
 
-![In_Progress](sketch.png)
+![In_Progress]()
 
-- Date: April 19, 2020
-- Medium: Digital Image file produced with custom software
-- Description: This is one of the first sketches I produced using special software I found online called emoji.ink
+- Date: April 22, 2020
+- Medium: Digital Image file 
+- Description: This is scanned sketch of my installation idea. 
 
-Inspired by the early ASCII art portraits I found in my research on emoticons, I decided to create portraits using emojis. My first attempts were produced using Snapchat, but it was very difficult to get the level of detail I wanted. After further research I found an online application called emoji.ink, developed by an Internet artist named Vince McElvie. It's this app which I used to produce the sketch seen above. My initial sketches were focused on specific facial features (eyes, nose, lips). I made numerous sketches of these close ups to practice drawing with emojis until I had developed a style I felt had the right degree of "photo realism", or at least as representational as one can get with emojis.
+![Inspiration](https://eventstructure.com/Water-Measure-Petroleum)
+
+- Date: April 5, 2020
+- Medium: URL link
+- Description: This is the art work of AAAJIAO that i got my inspiration from. 
+
+Inspired by one of the most popular Chinese new media artist AAAJIAO's work:Water Measure-petroleum. Where a programmed hourglass filled with petroleum-like pitch-black water. Every drip of water reads the binary coded redundant data filtered from high-frequency trading. This way of representing informations really inspired me. So I decided to create a installation that use an arbuino while it's connected to my computer to create an plants irrigation system that does automatic watering to the flower growing out of the wall, everytime someone make a comment in the discussion over the hacker ethic issue pn my computer. Using both the irrigation system and the growing of the flower to visully document the progress people made on the issue of redefining hacker ethic. Also, having the flower growing out of a wall as a poetic symbolization to represent the hopefullness of the true Hacker Ethic and the Hacker Culture is my main goal to achieve in this installation piece. 
